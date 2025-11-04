@@ -12,7 +12,7 @@
 
 Поставить **visibility** = Private.
 
-Добавить **@cashr17** как collaborator.
+Добавить **cashr17** как collaborator.
 
 ---
 
